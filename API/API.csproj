@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Connected Services\" />
     <Folder Include="Models\" />
     <Folder Include="Request\" />
     <Folder Include="wwwroot\" />
